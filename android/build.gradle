@@ -1,4 +1,5 @@
 import groovy.json.JsonSlurper
+def DEFAULT_GOOGLE_PLAY_SERVICES_VERSION    = "+"
 
 def computeVersionName() {
     // dynamically retrieve version from package.json
@@ -40,6 +41,8 @@ repositories {
 
 
 dependencies {
+    def googlePlayServicesVersion = project.hasProperty('googlePlayServicesVersion') ? project.googlePlayServicesVersion : DEFAULT_GOOGLE_PLAY_SERVICES_VERSION
+
     compile 'com.facebook.react:react-native:+'
-    compile 'com.google.android.gms:play-services-location:+'
+    compile "com.google.android.gms:play-services-location:$googlePlayServicesVersion"
 }
