@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/DAMAGE/Documents/EmploywiseAndroidIosReactnative25aug/ew-mobile-app/node_modules/react-native-location-switch/android/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/DAMAGE/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/31d228be1cc5ef8587bf1e8852e9b1f7/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/DAMAGE/Documents/EmploywiseAndroidIosReactnative25aug/ew-mobile-app/node_modules/react-native-location-switch/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/DAMAGE/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/31d228be1cc5ef8587bf1e8852e9b1f7/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/DAMAGE/Documents/EmploywiseAndroidIosReactnative25aug/ew-mobile-app/node_modules/react-native-location-switch/android/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/DAMAGE/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/14455c1dabee6ac2808430e78686aaee/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/DAMAGE/Documents/EmploywiseAndroidIosReactnative25aug/ew-mobile-app/node_modules/react-native-location-switch/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/DAMAGE/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/31d228be1cc5ef8587bf1e8852e9b1f7/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/DAMAGE/Documents/EmploywiseAndroidIosReactnative25aug/ew-mobile-app/node_modules/react-native-location-switch/android/src/main/jniLibs"/></dataSet><dataSet config="release"><source path="/Users/DAMAGE/Documents/EmploywiseAndroidIosReactnative25aug/ew-mobile-app/node_modules/react-native-location-switch/android/src/release/jniLibs"/></dataSet></merger>
